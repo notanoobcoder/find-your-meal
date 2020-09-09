@@ -5,7 +5,7 @@
   }
   
   body {
-    background: #c24e84;
+    background: #3d1729;
     color: #fff;
     font-family: 'Syne', sans-serif;
     margin: 0;
@@ -109,7 +109,7 @@
   .single-meal-info {
     margin: 20px;
     padding: 10px;
-    border: 2px #5e335a dashed;
+    border: 2px #d497ce dashed;
     border-radius: 5px;
   }
   
